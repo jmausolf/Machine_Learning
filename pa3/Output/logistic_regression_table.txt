@@ -1,0 +1,35 @@
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:      serious_dlqin2yrs   No. Observations:               150000
+Model:                          Logit   Df Residuals:                   149990
+Method:                           MLE   Df Model:                            9
+Date:                Thu, 07 May 2015   Pseudo R-squ.:                 0.06879
+Time:                        16:25:24   Log-Likelihood:                -34276.
+converged:                       True   LL-Null:                       -36808.
+                                        LLR p-value:                     0.000
+===============================================================================================================
+                                                  coef    std err          z      P>|z|      [95.0% Conf. Int.]
+---------------------------------------------------------------------------------------------------------------
+age                                            -0.0500      0.001    -92.999      0.000        -0.051    -0.049
+debt_ratio                                  -2.371e-05   1.04e-05     -2.286      0.022      -4.4e-05 -3.38e-06
+monthly_income                               -5.47e-05   3.29e-06    -16.625      0.000     -6.11e-05 -4.82e-05
+number_of_dependents                            0.0323      0.009      3.597      0.000         0.015     0.050
+number_of_open_credit_lines_and_loans          -0.0212      0.003     -8.194      0.000        -0.026    -0.016
+number_of_time30-59_days_past_due_not_worse     0.4910      0.011     43.857      0.000         0.469     0.513
+number_of_time60-89_days_past_due_not_worse    -0.8840      0.018    -50.477      0.000        -0.918    -0.850
+number_of_times90_days_late                     0.4206      0.015     28.126      0.000         0.391     0.450
+number_real_estate_loans_or_lines               0.1012      0.011      9.552      0.000         0.080     0.122
+revolving_utilization_of_unsecured_lines    -5.908e-05   6.63e-05     -0.891      0.373        -0.000  7.08e-05
+===============================================================================================================
+Odd's Ratios:
+age                                            0.951186
+debt_ratio                                     0.999976
+monthly_income                                 0.999945
+number_of_dependents                           1.032814
+number_of_open_credit_lines_and_loans          0.979066
+number_of_time30-59_days_past_due_not_worse    1.634015
+number_of_time60-89_days_past_due_not_worse    0.413120
+number_of_times90_days_late                    1.522866
+number_real_estate_loans_or_lines              1.106476
+revolving_utilization_of_unsecured_lines       0.999941
+dtype: float64

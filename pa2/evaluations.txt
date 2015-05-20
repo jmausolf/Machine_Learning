@@ -1,0 +1,124 @@
+
+____________________________________________________________________________________________________ 
+
+Classifier: Decision Tree, Depth =  4
+Runtime, base model: 0.463 seconds.
+Area Under Curve: 0.37
+Cross-validation of d_tree classifier: 5-folds
+Baseline = 1-Mean of DV: 0.933
+Model mean score, accuracy : 0.936
+Model mean score, average_precision : 0.370
+Model mean score, precision : 0.573
+Model mean score, recall : 0.157
+Model mean score, f1 : 0.245
+Model mean score, roc_auc : 0.829
+Model mean score, log_loss : -0.186
+Model mean score, mean_squared_error : -0.064
+Model mean score, r2 : -0.029
+Runtime, K-folds evaluation of base model: 12.150 seconds.
+____________________________________________________________________________________________________ 
+
+
+
+____________________________________________________________________________________________________ 
+
+Classifier: Random Forest with Bagging, Depth =  5
+Runtime, base model: 3.120 seconds.
+Area Under Curve: 0.39
+Cross-validation of random_forest_bagging classifier: 5-folds
+Baseline = 1-Mean of DV: 0.933
+Model mean score, accuracy : 0.934
+Model mean score, average_precision : 0.386
+Model mean score, precision : 0.724
+Model mean score, recall : 0.018
+Model mean score, f1 : 0.043
+Model mean score, roc_auc : 0.858
+Model mean score, log_loss : -0.188
+Model mean score, mean_squared_error : -0.066
+Model mean score, r2 : -0.060
+Runtime, K-folds evaluation of base model: 169.967 seconds.
+____________________________________________________________________________________________________ 
+
+
+
+____________________________________________________________________________________________________ 
+
+Classifier: Random Forest with Boosting, Depth =  5
+Runtime, base model: 15.376 seconds.
+Area Under Curve: 0.39
+Cross-validation of random_forest_boosting classifier: 5-folds
+Baseline = 1-Mean of DV: 0.933
+Model mean score, accuracy : 0.937
+Model mean score, average_precision : 0.394
+Model mean score, precision : 0.596
+Model mean score, recall : 0.193
+Model mean score, f1 : 0.287
+Model mean score, roc_auc : 0.861
+Model mean score, log_loss : -0.606
+Model mean score, mean_squared_error : -0.063
+Model mean score, r2 : -0.011
+Runtime, K-folds evaluation of base model: 732.850 seconds.
+____________________________________________________________________________________________________ 
+
+
+
+____________________________________________________________________________________________________ 
+
+Classifier: Gradient Boosting, Depth =  3
+Runtime, base model: 10.542 seconds.
+Area Under Curve: 0.42
+Cross-validation of gradient_boosting classifier: 5-folds
+Baseline = 1-Mean of DV: 0.933
+Model mean score, accuracy : 0.931
+Model mean score, average_precision : 0.323
+Model mean score, precision : 0.485
+Model mean score, recall : 0.298
+Model mean score, f1 : 0.358
+Model mean score, roc_auc : 0.822
+Model mean score, log_loss : -0.880
+Model mean score, mean_squared_error : -0.069
+Model mean score, r2 : -0.114
+Runtime, K-folds evaluation of base model: 497.992 seconds.
+____________________________________________________________________________________________________ 
+
+
+
+____________________________________________________________________________________________________ 
+
+Classifier: KNN, neighbors =  3
+Runtime, base model: 0.638 seconds.
+Area Under Curve: 0.13
+Cross-validation of KNN classifier: 5-folds
+Baseline = 1-Mean of DV: 0.933
+Model mean score, accuracy : 0.927
+Model mean score, average_precision : 0.128
+Model mean score, precision : 0.259
+Model mean score, recall : 0.045
+Model mean score, f1 : 0.077
+Model mean score, roc_auc : 0.559
+Model mean score, log_loss : -1.833
+Model mean score, mean_squared_error : -0.073
+Model mean score, r2 : -0.163
+Runtime, K-folds evaluation of base model: 129.950 seconds.
+____________________________________________________________________________________________________ 
+
+
+____________________________________________________________________________________________________ 
+
+Classifier: KNN, neighbors =  3 , algorithm =  auto
+Runtime, base model: 0.659 seconds.
+Area Under Curve: 0.13
+Cross-validation of KNN classifier: 5-folds
+Baseline = 1-Mean of DV: 0.933
+Model mean score, accuracy : 0.927
+Model mean score, average_precision : 0.128
+Model mean score, precision : 0.258
+Model mean score, recall : 0.045
+Model mean score, f1 : 0.077
+Model mean score, roc_auc : 0.559
+Model mean score, log_loss : -1.833
+Model mean score, mean_squared_error : -0.073
+Model mean score, r2 : -0.163
+Runtime, K-folds evaluation of base model: 115.192 seconds.
+____________________________________________________________________________________________________ 
+

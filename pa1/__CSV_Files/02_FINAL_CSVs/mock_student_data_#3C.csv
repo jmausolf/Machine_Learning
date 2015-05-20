@@ -1,0 +1,1001 @@
+ID,First_name,Last_name,State,Gender,Age,GPA,Days_missed,Graduated
+1,Wayne,Boyd,Florida,male,19,3,9,Yes
+2,Ann,Matthews,Pennsylvania,female,18,3,17,Yes
+3,George,Matthews,Texas,male,17,3,10,Yes
+4,Jerry,Ramos,California,male,15,2,28,No
+5,Andrea,Carroll,North Carolina,female,17,2,29,No
+6,Annie,Fisher,Virginia,female,19,4,5,Yes
+7,Stephanie,Barnes,Oklahoma,female,17,3,20,No
+8,Janet,Jenkins,Louisiana,female,15,4,20,Yes
+9,Betty,Miller,,female,17,3,23,No
+10,Henry,Woods,Colorado,male,19,4,14,Yes
+11,Stephanie,Harris,,female,17,4,3,Yes
+12,Samuel,George,Georgia,male,15,3,13,No
+13,Todd,Phillips,Indiana,male,17,2,3,Yes
+14,Nicholas,Rice,Florida,male,17,2,8,No
+15,Jacqueline,Wallace,New York,female,17,2,26,No
+16,Phyllis,Burton,Texas,female,16,3,18,No
+17,Sandra,Hudson,,female,17,4,20,Yes
+18,Karen,Bell,Mississippi,female,17,3,10,No
+19,Lori,Patterson,New York,female,18,4,17,Yes
+20,Ann,Banks,Pennsylvania,female,15,4,18,Yes
+21,Sara,Williams,,female,17,4,24,Yes
+22,Benjamin,Butler,Connecticut,male,18,3,4,Yes
+23,Lori,Lopez,,female,19,3,15,No
+24,Ryan,Porter,New York,male,15,2,10,No
+25,Anthony,Burke,Texas,male,16,2,14,No
+26,Katherine,Rodriguez,Arizona,female,16,4,3,Yes
+27,Harry,Larson,,male,18,3,15,No
+28,Joyce,Patterson,Virginia,female,18,4,22,Yes
+29,Jonathan,Wells,Indiana,male,19,3,20,Yes
+30,Jesse,Hamilton,New York,male,19,2,27,No
+31,Susan,Evans,South Dakota,female,15,2,29,No
+32,Kathleen,Lee,New Jersey,female,17,3,13,No
+33,Steven,Cooper,Arizona,male,18,3,20,Yes
+34,Shawn,Fisher,Indiana,male,17,2,17,No
+35,Arthur,Campbell,Texas,male,17,3,32,Yes
+36,Harold,Flores,New Mexico,male,19,3,15,Yes
+37,Bonnie,Parker,California,female,19,2,29,No
+38,Doris,Holmes,California,female,15,4,20,Yes
+39,Anna,Bradley,Virginia,female,19,4,17,Yes
+40,Ruth,Lopez,Ohio,female,16,4,17,Yes
+41,Wanda,Richards,Texas,female,16,4,7,Yes
+42,Jimmy,Kelly,Louisiana,male,17,3,10,Yes
+43,Marilyn,Marshall,New York,female,17,4,17,Yes
+44,Donna,Jackson,Ohio,female,19,4,18,Yes
+45,Judy,Boyd,Louisiana,female,18,4,33,Yes
+46,Irene,Johnson,Utah,female,18,2,9,No
+47,Frank,Ortiz,Florida,male,16,3,8,Yes
+48,Mark,Wheeler,California,male,16,2,13,No
+49,Aaron,Reed,Washington,male,17,2,21,No
+50,Christina,Little,Ohio,female,15,4,21,Yes
+51,Diana,Ross,Texas,female,17,2,17,Yes
+52,William,Cooper,New York,male,18,2,15,Yes
+53,Joseph,Nichols,Virginia,male,19,3,34,No
+54,Stephen,Bailey,Connecticut,male,19,4,16,Yes
+55,Harold,Powell,Tennessee,male,17,3,31,Yes
+56,Kathleen,Cole,Texas,female,16,3,5,No
+57,Marilyn,Simmons,South Carolina,female,18,4,33,Yes
+58,Susan,Roberts,Pennsylvania,female,17,3,17,Yes
+59,Samuel,Elliott,Connecticut,male,15,2,9,No
+60,Irene,Collins,District of Columbia,female,17,3,9,No
+61,Joshua,Lewis,Missouri,male,18,3,15,Yes
+62,Raymond,Hudson,Nebraska,male,15,4,7,Yes
+63,Philip,Gomez,Florida,male,18,2,7,No
+64,Christopher,Wood,Arizona,male,17,3,32,No
+65,Sarah,Garcia,Florida,female,19,2,6,No
+66,Antonio,Palmer,Missouri,male,17,2,12,No
+67,Ralph,Jacobs,Florida,male,18,2,14,No
+68,Patrick,Washington,Virginia,male,17,3,4,Yes
+69,Henry,Howell,California,male,17,3,14,No
+70,Lois,Chavez,Minnesota,female,17,4,19,Yes
+71,Melissa,Dunn,Massachusetts,female,17,3,17,Yes
+72,Eric,Roberts,California,male,18,3,32,Yes
+73,Timothy,Smith,California,male,15,4,20,Yes
+74,Kelly,Wheeler,New York,female,16,3,25,No
+75,Earl,Watson,Texas,male,17,3,6,Yes
+76,Fred,Owens,Texas,male,17,4,15,Yes
+77,Emily,Frazier,California,female,16,3,3,Yes
+78,James,Fowler,District of Columbia,male,17,3,15,No
+79,Johnny,Myers,Georgia,male,17,3,16,Yes
+80,Melissa,Harper,Kansas,female,17,3,27,No
+81,Joan,Reyes,California,female,19,3,4,No
+82,Keith,Sanchez,New York,male,15,2,15,Yes
+83,Craig,Tucker,Indiana,male,19,2,33,No
+84,Judith,Nguyen,Missouri,female,17,4,13,Yes
+85,Kenneth,Ramirez,,male,19,3,18,Yes
+86,Margaret,Scott,North Carolina,female,15,4,19,Yes
+87,Martha,Moreno,Kentucky,female,19,2,17,Yes
+88,Sandra,Nguyen,,female,17,3,7,No
+89,Albert,Willis,Utah,male,18,3,13,Yes
+90,Shirley,Wheeler,Ohio,female,17,3,11,No
+91,Heather,Olson,Texas,female,17,2,19,No
+92,Lois,Hanson,Washington,female,19,4,31,Yes
+93,Diane,Stanley,Ohio,female,16,4,20,Yes
+94,Jack,Williamson,Florida,male,16,4,31,Yes
+95,Earl,Walker,Louisiana,male,15,3,31,No
+96,Justin,Gardner,Nebraska,male,17,3,29,Yes
+97,Edward,Hughes,California,male,18,2,15,Yes
+98,Lisa,Harper,Florida,female,15,4,23,Yes
+99,Amy,Alexander,,female,19,3,13,No
+100,Emily,Bradley,,female,17,4,5,Yes
+101,Diana,Evans,Texas,female,17,3,17,Yes
+102,Juan,Romero,Texas,male,16,3,15,No
+103,Debra,Woods,,female,19,4,13,Yes
+104,Donna,Cooper,Florida,female,15,4,17,Yes
+105,Jason,Wright,Virginia,male,17,4,23,Yes
+106,Mary,Sanchez,Michigan,female,16,2,21,No
+107,Steven,Welch,New York,male,16,3,17,No
+108,Debra,Larson,Virginia,female,17,4,17,Yes
+109,Carlos,Gibson,Connecticut,male,15,4,28,Yes
+110,Janet,Johnson,Virginia,female,17,4,16,Yes
+111,Kathryn,Welch,Colorado,female,15,4,17,Yes
+112,Kathleen,Dixon,New York,female,17,2,6,No
+113,Harold,Rivera,,male,18,2,10,No
+114,Nancy,Olson,Illinois,female,15,4,17,Yes
+115,Daniel,Jacobs,Missouri,male,15,4,26,Yes
+116,Eugene,Ferguson,Connecticut,male,16,3,15,No
+117,Johnny,Webb,South Carolina,male,18,3,16,No
+118,Lillian,Frazier,Nebraska,female,15,4,21,Yes
+119,Stephanie,Gomez,,female,17,3,31,No
+120,Linda,Wagner,New York,female,16,3,29,No
+121,Carlos,Oliver,Florida,male,16,2,33,No
+122,Jose,Diaz,,male,15,2,12,No
+123,William,Sanchez,,male,15,3,28,No
+124,Eugene,Harper,Louisiana,male,19,4,14,Yes
+125,Louis,Lewis,Utah,male,15,4,17,Yes
+126,Janice,Watson,,female,18,3,17,Yes
+127,Shawn,Grant,Florida,male,15,3,21,Yes
+128,Margaret,Johnston,Texas,female,19,2,2,Yes
+129,Laura,Ford,Texas,female,17,3,18,No
+130,Lillian,Perez,Colorado,female,17,4,19,Yes
+131,Jose,Morgan,Pennsylvania,male,19,2,8,No
+132,Andrew,Meyer,,male,17,2,15,Yes
+133,Joshua,Lynch,Connecticut,male,18,3,7,Yes
+134,Sean,Sanders,New York,male,16,2,8,No
+135,Bruce,Williamson,Minnesota,male,17,3,15,Yes
+136,Harry,Reid,Mississippi,male,17,3,30,No
+137,Beverly,Wallace,Colorado,female,19,3,9,No
+138,Elizabeth,Ryan,Washington,female,15,4,3,Yes
+139,James,Russell,Florida,male,19,2,29,No
+140,Judith,Warren,,female,17,3,31,No
+141,Jesse,Woods,,male,16,4,6,Yes
+142,Lori,Alvarez,Tennessee,female,15,4,25,Yes
+143,Sara,Collins,Minnesota,female,18,3,3,Yes
+144,Nicholas,Graham,Georgia,male,18,4,15,Yes
+145,Sara,Armstrong,Georgia,female,16,4,7,Yes
+146,Ernest,Harper,Alaska,male,15,4,32,Yes
+147,Willie,Fisher,Ohio,male,18,3,7,Yes
+148,Alan,Daniels,Minnesota,male,17,3,7,No
+149,Jason,Moreno,Virginia,male,17,4,16,Yes
+150,Rose,Brooks,District of Columbia,female,15,4,17,Yes
+151,Shawn,Green,,male,18,3,10,Yes
+152,Fred,Henderson,Nevada,male,19,3,20,No
+153,Evelyn,Watson,New Jersey,female,18,4,12,Yes
+154,Wanda,Hawkins,Minnesota,female,16,4,30,Yes
+155,Clarence,Baker,New York,male,19,2,15,Yes
+156,Juan,Bradley,Kentucky,male,19,2,14,No
+157,Anne,Stone,New York,female,17,2,15,No
+158,Raymond,Davis,New Mexico,male,17,3,30,Yes
+159,Sharon,Fuller,Texas,female,17,2,17,Yes
+160,Raymond,James,Florida,male,15,3,28,No
+161,Evelyn,Berry,,female,18,2,25,No
+162,Brandon,Bryant,Delaware,male,17,3,33,Yes
+163,Maria,Medina,Missouri,female,15,3,32,No
+164,Pamela,Phillips,Washington,female,17,3,23,No
+165,Eugene,Weaver,Washington,male,19,2,30,No
+166,Janet,Martin,Kansas,female,17,3,2,Yes
+167,Angela,Marshall,Tennessee,female,18,3,23,No
+168,Tina,Lopez,Nevada,female,17,3,17,Yes
+169,Matthew,Cox,District of Columbia,male,19,2,5,No
+170,Louise,Morales,Alaska,female,15,2,17,Yes
+171,Annie,Oliver,District of Columbia,female,18,4,11,Yes
+172,Gregory,Diaz,Michigan,male,19,2,22,No
+173,Carolyn,Matthews,Connecticut,female,16,2,9,No
+174,Marilyn,Martinez,Florida,female,17,3,23,No
+175,Carolyn,Daniels,Louisiana,female,18,2,33,No
+176,Larry,Ross,Tennessee,male,17,4,15,Yes
+177,Brandon,Carpenter,Florida,male,15,3,18,Yes
+178,Andrea,Fox,Texas,female,17,4,11,Yes
+179,Victor,Ferguson,California,male,18,4,15,Yes
+180,Katherine,Alexander,Florida,female,17,3,28,No
+181,John,Bailey,Virginia,male,17,3,31,Yes
+182,Eric,Hill,Georgia,male,15,4,15,Yes
+183,Randy,Jacobs,Florida,male,18,3,34,No
+184,Patricia,Welch,Nevada,female,17,3,17,Yes
+185,Tammy,Flores,,female,17,3,23,No
+186,Mark,Meyer,South Carolina,male,17,3,8,No
+187,Brian,Snyder,,male,18,2,22,No
+188,Walter,Brown,District of Columbia,male,15,2,15,Yes
+189,Patrick,Daniels,Colorado,male,19,3,4,No
+190,Diane,Collins,Louisiana,female,17,4,25,Yes
+191,Irene,Warren,Kansas,female,17,3,17,Yes
+192,Janet,Gibson,Tennessee,female,19,4,17,Yes
+193,Eugene,Porter,Kentucky,male,18,3,23,No
+194,Amy,Sullivan,Missouri,female,19,3,17,Yes
+195,George,Rogers,Michigan,male,19,3,15,No
+196,Cheryl,Simmons,Virginia,female,17,4,17,Yes
+197,Maria,Torres,,female,15,4,6,Yes
+198,Jonathan,Lewis,District of Columbia,male,15,2,15,Yes
+199,Jeremy,Dixon,Virginia,male,15,3,34,Yes
+200,Raymond,Campbell,Texas,male,19,3,24,No
+201,Heather,Foster,,female,15,4,24,Yes
+202,Gary,Reid,Pennsylvania,male,16,3,14,Yes
+203,Peter,Mitchell,District of Columbia,male,19,3,15,No
+204,Jean,Mendoza,Alabama,female,15,4,6,Yes
+205,Diane,Rice,Texas,female,15,3,28,No
+206,Shawn,Hansen,Kansas,male,16,3,28,No
+207,Kathryn,Harris,Texas,female,16,4,18,Yes
+208,Jesse,Little,Georgia,male,16,3,5,Yes
+209,Joan,Ward,Ohio,female,19,2,17,Yes
+210,Frances,Arnold,District of Columbia,female,17,4,17,Yes
+211,Maria,Bowman,Virginia,female,19,4,17,Yes
+212,Robin,Perry,California,female,15,4,2,Yes
+213,Mary,Oliver,,female,18,4,16,Yes
+214,Catherine,Graham,,female,17,2,6,No
+215,Bonnie,Harris,Florida,female,17,4,8,Yes
+216,Jeremy,Wood,Nevada,male,17,2,5,No
+217,Joan,Hamilton,Arizona,female,15,4,17,Yes
+218,Terry,Rogers,Alabama,male,17,4,10,Yes
+219,Kenneth,Chapman,Illinois,male,16,3,24,No
+220,Anne,Diaz,Texas,female,16,2,33,No
+221,Carol,Welch,Texas,female,19,3,33,No
+222,Paula,Clark,Minnesota,female,19,2,33,No
+223,Gary,Nichols,Florida,male,17,3,28,Yes
+224,Jose,Snyder,,male,18,2,17,No
+225,Catherine,Barnes,Pennsylvania,female,17,4,17,Yes
+226,Jack,Henry,Texas,male,19,2,12,No
+227,Terry,Thomas,Montana,male,18,4,14,Yes
+228,Melissa,Patterson,New York,female,17,4,17,Yes
+229,Nancy,Bailey,Colorado,female,15,2,31,No
+230,Lisa,Knight,Louisiana,female,17,4,3,Yes
+231,Jesse,Medina,Washington,male,17,2,28,No
+232,Harry,Holmes,South Carolina,male,18,3,13,Yes
+233,Alan,Gonzales,Georgia,male,17,4,4,Yes
+234,Jerry,Webb,California,male,18,2,10,No
+235,Juan,Ross,Florida,male,19,2,15,Yes
+236,Amy,Gomez,New York,female,19,4,12,Yes
+237,Patrick,Willis,Illinois,male,17,3,30,Yes
+238,Carlos,Wallace,South Carolina,male,17,3,33,Yes
+239,Brenda,Marshall,Idaho,female,17,3,4,No
+240,Gloria,Brooks,Texas,female,16,4,34,Yes
+241,Christopher,Morgan,Texas,male,15,3,34,No
+242,Angela,Wagner,Texas,female,16,2,11,No
+243,Andrew,Lopez,Connecticut,male,17,3,15,Yes
+244,Matthew,Greene,Nevada,male,17,2,5,No
+245,Earl,Lawson,Massachusetts,male,15,3,26,No
+246,William,Matthews,,male,15,2,20,No
+247,Victor,Palmer,Idaho,male,15,3,15,Yes
+248,Phillip,Gonzalez,District of Columbia,male,15,3,15,Yes
+249,Diana,Jacobs,Florida,female,18,2,24,No
+250,Jerry,Sanders,Georgia,male,19,3,6,No
+251,Lisa,Owens,West Virginia,female,16,3,17,No
+252,Philip,Stone,California,male,17,4,15,Yes
+253,Frank,Vasquez,California,male,15,4,15,Yes
+254,Eugene,Scott,Florida,male,17,2,17,No
+255,Kathy,Lopez,Florida,female,18,3,24,No
+256,Justin,Wheeler,California,male,15,4,23,Yes
+257,Tina,Schmidt,North Carolina,female,15,3,12,No
+258,Ronald,Thomas,Florida,male,15,2,20,No
+259,Michelle,Bradley,District of Columbia,female,16,4,32,Yes
+260,Andrea,Warren,Florida,female,18,4,33,Yes
+261,Richard,Romero,Michigan,male,17,2,28,No
+262,Amanda,Reyes,Texas,female,17,4,33,Yes
+263,Richard,Collins,Kentucky,male,18,2,15,Yes
+264,Kenneth,Olson,Illinois,male,19,3,15,Yes
+265,Adam,Perry,Georgia,male,17,2,34,No
+266,Carl,Montgomery,,male,17,4,29,Yes
+267,Harold,Powell,Texas,male,15,2,12,No
+268,Donald,Little,Kentucky,male,16,2,33,No
+269,Amy,Schmidt,California,female,16,4,3,Yes
+270,Patricia,Hawkins,California,female,16,4,17,Yes
+271,Raymond,Hill,District of Columbia,male,17,3,29,No
+272,Laura,Watson,Louisiana,female,19,4,13,Yes
+273,Nicholas,Morgan,Minnesota,male,18,3,15,Yes
+274,Anthony,Franklin,Illinois,male,17,2,9,No
+275,Raymond,Shaw,Oregon,male,19,2,15,Yes
+276,Denise,Garza,North Carolina,female,15,4,30,Yes
+277,Bobby,Butler,District of Columbia,male,17,3,14,Yes
+278,Dennis,Baker,Ohio,male,17,3,3,Yes
+279,Brenda,Butler,Virginia,female,16,3,9,No
+280,Melissa,Morales,District of Columbia,female,19,4,30,Yes
+281,Amy,Franklin,Florida,female,18,3,32,No
+282,Juan,Hunt,California,male,18,3,8,Yes
+283,Brian,Gibson,California,male,19,4,17,Yes
+284,Kathy,Duncan,Florida,female,15,3,22,No
+285,Steve,Montgomery,Texas,male,15,3,27,No
+286,Amy,King,Indiana,female,15,3,18,No
+287,Christine,Freeman,Georgia,female,17,3,17,No
+288,Sean,Stephens,California,male,18,2,8,No
+289,Pamela,Hill,,female,17,2,25,No
+290,Patrick,Gonzalez,Arizona,male,17,2,31,No
+291,Matthew,Sullivan,Texas,male,16,2,15,Yes
+292,Joseph,Kelley,,male,17,3,15,Yes
+293,Anthony,Roberts,Colorado,male,17,2,15,Yes
+294,Andrew,Marshall,Louisiana,male,17,4,32,Yes
+295,Pamela,Armstrong,Washington,female,17,3,11,No
+296,Julia,Carr,Texas,female,17,4,17,Yes
+297,Ernest,Day,Florida,male,15,3,17,No
+298,Marie,Ford,Florida,female,17,3,17,Yes
+299,Clarence,Medina,District of Columbia,male,18,4,15,Yes
+300,Maria,King,California,female,17,2,8,No
+301,Evelyn,Robertson,Florida,female,15,4,2,Yes
+302,Mark,Frazier,Kentucky,male,17,2,3,Yes
+303,Lillian,Knight,Colorado,female,15,3,27,No
+304,George,Arnold,Florida,male,17,3,32,No
+305,Frances,Parker,Indiana,female,17,3,34,No
+306,David,Thompson,Texas,male,17,4,4,Yes
+307,Wayne,Diaz,Virginia,male,17,4,7,Yes
+308,Lawrence,Bradley,West Virginia,male,19,4,25,Yes
+309,Patricia,Hayes,Florida,female,19,2,25,No
+310,Helen,Jordan,South Carolina,female,18,3,17,Yes
+311,Stephanie,Moreno,Louisiana,female,19,4,17,Yes
+312,Emily,Edwards,New York,female,17,2,13,No
+313,Virginia,Howard,New York,female,19,3,15,No
+314,Anthony,Hart,Indiana,male,18,4,15,Yes
+315,Jacqueline,Gomez,,female,16,4,33,Yes
+316,Gloria,Hunter,California,female,17,2,3,Yes
+317,Timothy,Gardner,,male,18,4,18,Yes
+318,Gregory,Hunt,California,male,17,4,10,Yes
+319,Cynthia,Brown,Arizona,female,17,4,30,Yes
+320,Nicholas,Campbell,North Carolina,male,16,4,15,Yes
+321,Steve,Garcia,Vermont,male,17,3,15,Yes
+322,Catherine,Hanson,Virginia,female,18,4,29,Yes
+323,Jennifer,Gonzales,New York,female,17,3,23,No
+324,Judy,Reyes,New York,female,16,3,29,No
+325,Scott,Stone,Minnesota,male,16,3,5,No
+326,Ryan,Reed,Texas,male,18,2,8,No
+327,Randy,Mason,Virginia,male,17,4,31,Yes
+328,Victor,Day,North Carolina,male,16,3,4,Yes
+329,Karen,Vasquez,Delaware,female,15,4,23,Yes
+330,Gary,Medina,Michigan,male,15,3,15,Yes
+331,Donna,Torres,New York,female,17,4,17,Yes
+332,Doris,Scott,,female,15,3,34,No
+333,Donna,Hunter,,female,17,3,32,No
+334,Linda,Harvey,Alabama,female,17,2,16,No
+335,Patricia,Chapman,Ohio,female,17,2,23,No
+336,Kimberly,Reynolds,Georgia,female,15,4,14,Yes
+337,Annie,Morgan,Texas,female,16,2,17,Yes
+338,Jerry,Hanson,,male,15,4,9,Yes
+339,Jeffrey,Peterson,New Mexico,male,19,2,5,No
+340,Anthony,Daniels,Tennessee,male,16,2,8,No
+341,Anna,Day,Oklahoma,female,18,2,31,No
+342,Debra,Arnold,Florida,female,17,4,25,Yes
+343,Judith,Cunningham,California,female,15,4,25,Yes
+344,Deborah,Reynolds,Virginia,female,18,4,22,Yes
+345,Theresa,Garza,,female,15,4,17,Yes
+346,Angela,Sanchez,Nevada,female,19,4,27,Yes
+347,Timothy,George,Wisconsin,male,17,3,19,No
+348,Angela,Jordan,North Carolina,female,15,4,23,Yes
+349,Paula,Hunter,,female,17,4,5,Yes
+350,Harold,Evans,Colorado,male,17,2,34,No
+351,Sara,Burke,Kentucky,female,19,3,27,No
+352,Nancy,Bryant,New York,female,18,4,19,Yes
+353,Anna,Stephens,,female,16,4,17,Yes
+354,Joyce,Bryant,California,female,19,3,30,No
+355,Joyce,Baker,West Virginia,female,17,2,28,No
+356,Gary,Fernandez,Maryland,male,16,3,31,No
+357,Terry,Anderson,Washington,male,18,4,6,Yes
+358,Carlos,Murphy,Oklahoma,male,17,2,7,No
+359,Christina,Cox,Missouri,female,18,2,22,No
+360,Bonnie,Morrison,,female,17,3,23,No
+361,Steven,Hansen,Wisconsin,male,18,3,15,Yes
+362,Sara,Perry,North Carolina,female,17,3,17,No
+363,Marie,Rice,Washington,female,18,4,17,Yes
+364,Christopher,Torres,Pennsylvania,male,18,4,25,Yes
+365,Richard,Martin,,male,17,3,27,Yes
+366,Todd,Hernandez,,male,17,3,2,Yes
+367,Mary,Patterson,District of Columbia,female,17,4,13,Yes
+368,Ann,Davis,California,female,16,2,17,Yes
+369,David,Lynch,Arizona,male,15,3,13,Yes
+370,Lisa,Stevens,Alabama,female,16,4,2,Yes
+371,Beverly,Wells,,female,17,3,30,No
+372,Larry,Harper,,male,17,4,4,Yes
+373,Dennis,Fields,Ohio,male,16,3,34,No
+374,Jessica,Jones,South Carolina,female,17,2,3,Yes
+375,Juan,Hernandez,Arizona,male,16,3,15,Yes
+376,Antonio,Hart,California,male,18,4,15,Yes
+377,Janice,Ellis,New Jersey,female,18,3,17,Yes
+378,Kimberly,Morgan,New York,female,18,2,32,No
+379,Betty,Robertson,Texas,female,19,3,29,No
+380,Mildred,Morgan,Oklahoma,female,17,2,17,No
+381,Wanda,Edwards,District of Columbia,female,15,4,17,Yes
+382,Shawn,Little,Pennsylvania,male,19,3,10,No
+383,Louis,Nelson,New Mexico,male,17,4,14,Yes
+384,Teresa,Roberts,Illinois,female,16,4,30,Yes
+385,Judith,Ross,Oklahoma,female,15,4,6,Yes
+386,Clarence,Nguyen,California,male,17,3,8,Yes
+387,Lois,Collins,,female,17,3,17,Yes
+388,Aaron,Bishop,California,male,17,4,12,Yes
+389,James,Fields,Virginia,male,19,2,15,Yes
+390,Raymond,Myers,Washington,male,17,2,25,No
+391,Brandon,Ferguson,Texas,male,17,2,23,No
+392,Russell,Cook,New York,male,17,2,15,Yes
+393,Kathleen,Burton,Missouri,female,17,4,17,Yes
+394,Willie,Shaw,Texas,male,16,2,15,Yes
+395,Philip,Nichols,District of Columbia,male,19,3,34,Yes
+396,Steve,Perkins,South Carolina,male,17,2,30,No
+397,Michael,Romero,Kansas,male,19,3,12,No
+398,Roy,Garcia,Michigan,male,15,3,34,Yes
+399,Tammy,Fields,Tennessee,female,18,4,29,Yes
+400,Sean,Shaw,,male,18,2,24,No
+401,David,Ramirez,California,male,17,2,15,Yes
+402,Richard,Alvarez,Pennsylvania,male,16,4,19,Yes
+403,Jeffrey,Miller,Oregon,male,19,4,29,Yes
+404,Edward,Gray,Texas,male,18,2,30,No
+405,Jack,Bell,New York,male,17,2,19,No
+406,Joseph,Mitchell,Colorado,male,17,3,8,No
+407,Phyllis,Bradley,Florida,female,15,3,21,No
+408,Lori,Stewart,Texas,female,16,2,26,No
+409,Julie,Richardson,Georgia,female,19,4,6,Yes
+410,Cynthia,Stanley,South Carolina,female,15,4,17,Yes
+411,Kenneth,Johnston,Massachusetts,male,19,4,11,Yes
+412,Chris,Sims,California,male,17,2,10,No
+413,Brian,Hanson,Massachusetts,male,17,2,26,No
+414,Matthew,Ward,New York,male,15,2,29,No
+415,Carl,Mason,Indiana,male,19,3,18,Yes
+416,Richard,Wells,Texas,male,17,2,15,Yes
+417,Sandra,Daniels,Nebraska,female,18,3,17,Yes
+418,Cheryl,Banks,Texas,female,19,4,6,Yes
+419,Frances,Marshall,Texas,female,19,4,30,Yes
+420,Gerald,Stevens,Florida,male,19,4,15,Yes
+421,Sean,Perez,California,male,15,4,29,Yes
+422,Robert,Flores,,male,18,3,17,Yes
+423,Daniel,Lee,,male,16,4,7,Yes
+424,Marie,Perry,,female,17,3,13,No
+425,Cheryl,Cruz,Nebraska,female,18,2,16,No
+426,Julia,Bishop,Ohio,female,19,4,30,Yes
+427,Earl,Bradley,South Carolina,male,19,2,10,No
+428,Timothy,Watkins,Nevada,male,16,4,4,Yes
+429,James,Olson,Louisiana,male,15,2,15,Yes
+430,Gregory,Ramos,,male,16,3,15,Yes
+431,Terry,Reynolds,South Carolina,male,19,2,33,No
+432,Terry,Murphy,Wisconsin,male,18,3,20,Yes
+433,Mark,Cook,New Jersey,male,15,3,28,No
+434,Wanda,Weaver,New Jersey,female,18,4,22,Yes
+435,Denise,Stewart,Montana,female,17,2,23,No
+436,Todd,Gutierrez,Illinois,male,16,2,14,No
+437,Debra,Fernandez,New York,female,16,4,30,Yes
+438,Lawrence,Flores,District of Columbia,male,16,3,6,No
+439,Juan,Duncan,Kentucky,male,17,4,10,Yes
+440,Marie,Stewart,Missouri,female,19,2,12,No
+441,Frances,Harvey,Massachusetts,female,15,2,12,No
+442,Willie,Owens,Washington,male,16,4,3,Yes
+443,Katherine,Fields,,female,17,4,34,Yes
+444,Donald,Jackson,Texas,male,15,3,18,No
+445,Daniel,Young,Pennsylvania,male,16,4,2,Yes
+446,Paula,Weaver,California,female,17,2,7,No
+447,Robert,Brooks,Texas,male,15,3,7,Yes
+448,Norma,Moore,North Carolina,female,15,3,25,No
+449,Catherine,Meyer,Indiana,female,16,3,34,No
+450,Melissa,Miller,Nevada,female,18,3,25,No
+451,Amanda,Grant,Oklahoma,female,15,3,33,No
+452,Walter,Meyer,,male,16,3,13,Yes
+453,Michelle,Stone,Wisconsin,female,17,2,23,No
+454,Ashley,Martin,New York,female,16,4,32,Yes
+455,Paula,Myers,Massachusetts,female,18,3,22,No
+456,Charles,Mitchell,,male,19,3,24,No
+457,Julia,Jacobs,,female,19,4,32,Yes
+458,Judith,Elliott,North Carolina,female,16,4,20,Yes
+459,Steven,Baker,Florida,male,17,2,17,No
+460,Gregory,Griffin,South Dakota,male,17,3,9,No
+461,Judith,Wright,Florida,female,18,4,17,Yes
+462,Donald,Banks,Pennsylvania,male,19,3,22,No
+463,Lawrence,Lee,Florida,male,17,3,7,Yes
+464,Kimberly,Morgan,Illinois,female,16,4,8,Yes
+465,Patrick,Fields,Indiana,male,15,3,12,Yes
+466,Aaron,Murphy,Florida,male,18,3,12,No
+467,Nancy,Adams,Missouri,female,17,3,17,Yes
+468,Virginia,Brown,Florida,female,15,4,17,Yes
+469,Mary,Bradley,California,female,19,4,17,Yes
+470,Wanda,Greene,North Carolina,female,17,3,15,No
+471,Judith,Campbell,California,female,16,3,34,No
+472,Dorothy,Turner,Kentucky,female,18,3,14,No
+473,Judy,Phillips,Florida,female,19,4,17,Yes
+474,Pamela,Kennedy,Indiana,female,16,4,17,Yes
+475,Brandon,Mendoza,Kentucky,male,15,3,31,No
+476,Aaron,Mitchell,Arizona,male,18,3,24,No
+477,Jeremy,Stephens,California,male,19,3,19,No
+478,Mary,Miller,Nebraska,female,15,3,17,Yes
+479,Paul,Gibson,Alabama,male,17,3,15,Yes
+480,Frank,Gonzalez,Florida,male,18,2,16,No
+481,Pamela,Grant,Ohio,female,18,4,17,Yes
+482,Anne,Dean,Virginia,female,17,2,12,No
+483,Joyce,Armstrong,West Virginia,female,17,4,17,Yes
+484,Wayne,Palmer,California,male,17,3,17,No
+485,Amanda,Ross,California,female,16,4,21,Yes
+486,Andrew,Day,Alabama,male,17,3,30,Yes
+487,Amanda,Crawford,Vermont,female,19,4,32,Yes
+488,Matthew,Knight,Maryland,male,18,4,6,Yes
+489,Marie,Hawkins,North Carolina,female,16,4,13,Yes
+490,Deborah,Hill,Indiana,female,16,3,29,No
+491,Cheryl,Russell,Nebraska,female,19,3,25,No
+492,Martin,Black,Texas,male,15,3,11,No
+493,Theresa,Martin,California,female,17,3,16,No
+494,Joyce,Peterson,West Virginia,female,17,3,10,No
+495,Frances,Cruz,Virginia,female,16,4,9,Yes
+496,Rebecca,Carter,Florida,female,17,4,32,Yes
+497,Juan,Robertson,Ohio,male,17,4,5,Yes
+498,Kathryn,Jackson,,female,16,4,3,Yes
+499,Mary,Young,Pennsylvania,female,15,4,30,Yes
+500,Benjamin,Gibson,California,male,17,3,9,No
+501,Diane,Ellis,Colorado,female,17,4,17,Yes
+502,Susan,Lewis,Texas,female,17,2,8,No
+503,Frank,Jacobs,Washington,male,15,2,23,No
+504,Doris,Ortiz,Washington,female,17,4,19,Yes
+505,Ashley,Sims,Massachusetts,female,18,4,18,Yes
+506,David,Ross,Kentucky,male,15,4,15,Yes
+507,Christina,Schmidt,Texas,female,19,4,13,Yes
+508,Scott,Johnson,Florida,male,17,4,12,Yes
+509,Jerry,Fox,Illinois,male,19,2,14,No
+510,Ryan,Woods,Texas,male,17,3,18,No
+511,Nancy,Palmer,New Jersey,female,17,4,26,Yes
+512,Robert,Gomez,Texas,male,17,3,6,No
+513,Robin,Bailey,Illinois,female,17,2,18,No
+514,Kevin,Mitchell,Mississippi,male,18,4,15,Yes
+515,Jose,Gordon,Louisiana,male,17,3,15,No
+516,Catherine,Bradley,Arizona,female,17,2,15,No
+517,Helen,Robertson,Colorado,female,18,2,15,No
+518,Roy,Mccoy,Missouri,male,15,3,15,Yes
+519,Jimmy,Hicks,Minnesota,male,18,3,2,Yes
+520,Justin,Gibson,Illinois,male,18,2,29,No
+521,Virginia,Reed,Wisconsin,female,18,4,30,Yes
+522,Doris,Collins,Ohio,female,19,4,26,Yes
+523,Larry,Fernandez,Colorado,male,17,4,15,Yes
+524,Andrew,Ross,Tennessee,male,17,3,21,Yes
+525,Patrick,Harvey,Minnesota,male,15,3,27,Yes
+526,Kelly,Franklin,,female,16,4,34,Yes
+527,Terry,Armstrong,Missouri,male,18,2,12,No
+528,Louis,Martin,District of Columbia,male,18,3,16,Yes
+529,Beverly,Medina,District of Columbia,female,16,4,28,Yes
+530,Carl,Rodriguez,Arizona,male,15,2,20,No
+531,Stephen,Stanley,New York,male,15,3,10,Yes
+532,Ernest,Nguyen,Texas,male,15,4,10,Yes
+533,Emily,Hamilton,Ohio,female,16,4,25,Yes
+534,Henry,Daniels,Massachusetts,male,18,4,16,Yes
+535,Teresa,Grant,Virginia,female,16,3,16,No
+536,Alice,Martinez,Missouri,female,19,2,27,No
+537,Alan,Campbell,,male,17,2,3,Yes
+538,Henry,Murphy,California,male,15,2,26,No
+539,Sean,Dean,New Jersey,male,17,4,6,Yes
+540,Janice,Gilbert,Texas,female,15,2,17,Yes
+541,Alice,Snyder,Arkansas,female,15,3,2,Yes
+542,Debra,Meyer,Alabama,female,17,2,17,Yes
+543,Cynthia,Stewart,Missouri,female,15,2,7,No
+544,Phillip,Olson,Tennessee,male,17,3,19,No
+545,Thomas,Mcdonald,Texas,male,17,4,8,Yes
+546,David,Hart,Indiana,male,17,3,15,Yes
+547,Walter,Lawson,District of Columbia,male,17,2,28,No
+548,Pamela,Stewart,Texas,female,19,2,8,No
+549,Linda,Montgomery,Georgia,female,15,2,27,No
+550,Jesse,Henry,Michigan,male,17,3,15,Yes
+551,James,Richards,New Mexico,male,15,3,14,Yes
+552,Ryan,Johnston,Florida,male,17,4,22,Yes
+553,Kathleen,Ford,Florida,female,18,4,17,Yes
+554,Samuel,Young,Delaware,male,19,3,25,No
+555,Albert,Perez,Virginia,male,19,3,6,Yes
+556,Teresa,Gomez,California,female,15,4,19,Yes
+557,Johnny,Allen,,male,15,3,21,Yes
+558,Louise,James,Kentucky,female,16,4,25,Yes
+559,Victor,Robinson,Arizona,male,19,2,33,No
+560,Joshua,Hart,Tennessee,male,18,4,21,Yes
+561,Arthur,Ryan,California,male,18,3,22,Yes
+562,Michelle,Kim,Indiana,female,17,3,15,No
+563,Lawrence,Thompson,North Carolina,male,16,3,4,Yes
+564,Roy,Stevens,Oklahoma,male,15,2,15,Yes
+565,Keith,Warren,Ohio,male,17,3,15,No
+566,Shawn,Torres,,male,19,4,15,Yes
+567,Jesse,Ortiz,Tennessee,male,17,4,21,Yes
+568,Raymond,Miller,Ohio,male,17,2,18,No
+569,Daniel,Fields,Kentucky,male,17,3,23,No
+570,Helen,Day,Massachusetts,female,15,2,17,No
+571,Bonnie,Jackson,California,female,19,4,28,Yes
+572,Betty,Anderson,Alabama,female,17,4,29,Yes
+573,Dennis,Ortiz,Iowa,male,16,3,22,Yes
+574,Larry,Graham,Virginia,male,18,3,15,Yes
+575,Russell,Bell,Oklahoma,male,18,3,11,No
+576,Elizabeth,Hill,Oregon,female,17,4,7,Yes
+577,Lori,Gordon,Texas,female,17,2,28,No
+578,Michelle,Moore,,female,16,4,30,Yes
+579,Beverly,Gordon,Texas,female,17,3,15,No
+580,Kathryn,Brooks,Tennessee,female,18,2,9,No
+581,Heather,Hawkins,District of Columbia,female,16,4,21,Yes
+582,Anna,Pierce,Indiana,female,17,4,18,Yes
+583,Lois,Adams,Kentucky,female,19,3,24,No
+584,Ronald,Collins,Florida,male,19,3,26,No
+585,Bruce,Perez,Texas,male,15,2,15,Yes
+586,Robert,Patterson,Utah,male,16,3,34,Yes
+587,Lisa,Medina,Florida,female,15,2,4,No
+588,Judith,Reed,Florida,female,17,4,4,Yes
+589,Carol,Hernandez,Minnesota,female,19,4,27,Yes
+590,Timothy,Davis,Hawaii,male,19,2,32,No
+591,Mark,Nguyen,Arkansas,male,17,2,15,Yes
+592,Arthur,Miller,Louisiana,male,17,3,26,Yes
+593,Bruce,Foster,,male,19,4,13,Yes
+594,Walter,Garcia,California,male,15,2,28,No
+595,Cheryl,Rice,Pennsylvania,female,16,2,4,No
+596,Earl,Bennett,Texas,male,17,3,15,Yes
+597,Carlos,Gray,Virginia,male,17,4,15,Yes
+598,Janet,Franklin,Florida,female,17,3,17,Yes
+599,Doris,Murray,,female,17,4,3,Yes
+600,Amy,Powell,,female,15,2,31,No
+601,Pamela,Boyd,Pennsylvania,female,15,4,10,Yes
+602,Sarah,Butler,Ohio,female,17,3,27,No
+603,Peter,Martin,Washington,male,19,3,30,No
+604,Jean,Washington,,female,15,2,19,No
+605,James,Lane,Arizona,male,15,3,30,Yes
+606,Theresa,Simpson,District of Columbia,female,18,2,17,Yes
+607,Elizabeth,Miller,Colorado,female,16,3,17,Yes
+608,Carlos,Freeman,California,male,19,3,22,No
+609,Rachel,Barnes,Alabama,female,19,4,26,Yes
+610,Thomas,Ross,Florida,male,17,2,26,No
+611,Dorothy,Boyd,Washington,female,15,2,6,No
+612,Karen,Torres,Florida,female,17,4,27,Yes
+613,Nancy,Duncan,California,female,19,3,13,No
+614,Jeremy,Rose,California,male,17,2,15,Yes
+615,Johnny,Berry,Texas,male,15,2,15,Yes
+616,Shawn,George,District of Columbia,male,15,3,6,Yes
+617,Bobby,Hill,Florida,male,17,4,27,Yes
+618,Debra,Robinson,Oregon,female,17,4,30,Yes
+619,Fred,Sanchez,Michigan,male,17,3,3,Yes
+620,Johnny,Wood,,male,18,4,15,Yes
+621,Richard,Murray,Indiana,male,17,4,7,Yes
+622,Antonio,Crawford,West Virginia,male,19,3,30,Yes
+623,Catherine,Ross,Maine,female,18,2,30,No
+624,Larry,Wagner,New Jersey,male,15,4,3,Yes
+625,Adam,Fernandez,,male,16,3,29,No
+626,Anne,Kelley,Ohio,female,16,2,33,No
+627,Nicholas,Washington,Indiana,male,18,4,22,Yes
+628,Christina,Roberts,California,female,17,2,4,No
+629,Diana,Ryan,Texas,female,15,2,14,No
+630,Antonio,King,Michigan,male,17,3,15,Yes
+631,Linda,Matthews,Wisconsin,female,17,4,2,Yes
+632,Rachel,Collins,Texas,female,19,4,17,Yes
+633,Bruce,Bell,Texas,male,18,4,5,Yes
+634,Amanda,Fisher,Indiana,female,17,4,28,Yes
+635,Melissa,Cole,Texas,female,18,3,25,No
+636,Lois,Hayes,Wisconsin,female,17,4,28,Yes
+637,Jennifer,Lopez,,female,16,4,16,Yes
+638,Robin,Grant,Alabama,female,17,2,3,Yes
+639,Katherine,Bishop,Oregon,female,19,4,10,Yes
+640,Kathleen,Ramos,California,female,17,2,13,No
+641,Arthur,Sanchez,Georgia,male,16,4,15,Yes
+642,Ann,Perkins,New Hampshire,female,17,3,9,No
+643,Brandon,King,Michigan,male,17,2,6,No
+644,Nicole,Ortiz,Illinois,female,18,2,17,Yes
+645,Sean,Nguyen,Texas,male,19,3,24,Yes
+646,Gloria,Wheeler,Texas,female,17,2,5,No
+647,Phillip,Reid,,male,15,4,11,Yes
+648,Billy,Morrison,Minnesota,male,19,3,15,Yes
+649,Betty,Mcdonald,Ohio,female,17,2,33,No
+650,Shirley,Ortiz,,female,18,2,17,Yes
+651,Karen,Simmons,California,female,18,4,7,Yes
+652,Antonio,Taylor,District of Columbia,male,17,4,29,Yes
+653,Janice,Clark,West Virginia,female,17,2,17,Yes
+654,Stephen,Simpson,New Jersey,male,16,2,3,Yes
+655,Kathleen,Brown,,female,16,2,9,No
+656,Phillip,Morales,Illinois,male,18,2,6,No
+657,Joe,Watson,,male,17,3,16,No
+658,Melissa,Harrison,Texas,female,17,4,24,Yes
+659,Carlos,Carpenter,California,male,18,3,4,No
+660,Theresa,Matthews,Hawaii,female,17,4,18,Yes
+661,Sarah,Crawford,Virginia,female,19,4,34,Yes
+662,Christina,Grant,Florida,female,17,4,12,Yes
+663,Carol,Powell,Illinois,female,17,4,31,Yes
+664,Eugene,Lewis,Missouri,male,16,3,19,No
+665,Chris,Hunt,Pennsylvania,male,17,4,23,Yes
+666,Mildred,Ross,West Virginia,female,18,4,24,Yes
+667,Nicole,Hart,Texas,female,17,2,17,Yes
+668,John,Richards,Texas,male,17,4,25,Yes
+669,Brandon,Lawson,Pennsylvania,male,19,3,29,No
+670,Stephanie,Henry,New York,female,18,2,14,No
+671,Janet,Ray,,female,17,3,19,No
+672,Terry,Gray,Colorado,male,17,3,34,Yes
+673,Antonio,Perez,North Carolina,male,17,2,14,No
+674,Donna,Russell,Ohio,female,17,4,17,Yes
+675,Theresa,Kennedy,Indiana,female,15,2,31,No
+676,Jack,Morrison,Alabama,male,17,2,15,Yes
+677,Louis,Rodriguez,Pennsylvania,male,16,3,15,Yes
+678,Gregory,Mccoy,Washington,male,18,2,15,Yes
+679,Gloria,Snyder,Florida,female,16,3,7,No
+680,Phyllis,Wagner,,female,18,3,12,No
+681,Mildred,Fernandez,North Carolina,female,15,2,21,No
+682,Jean,Sullivan,Arizona,female,19,2,9,No
+683,Christina,Woods,New York,female,15,2,13,No
+684,Paula,Webb,Minnesota,female,16,2,17,No
+685,Annie,Kennedy,Nevada,female,17,4,24,Yes
+686,Heather,Adams,Texas,female,17,4,8,Yes
+687,Katherine,Oliver,Virginia,female,17,4,10,Yes
+688,Fred,Gonzalez,Idaho,male,17,4,15,Yes
+689,Beverly,Kelley,Arkansas,female,18,2,25,No
+690,Evelyn,White,Massachusetts,female,17,3,33,No
+691,Arthur,Wood,Indiana,male,17,3,26,No
+692,Larry,Bennett,Ohio,male,15,3,28,No
+693,Sharon,Romero,North Carolina,female,17,4,25,Yes
+694,Michelle,Foster,California,female,17,3,27,No
+695,Philip,Watkins,Arizona,male,19,3,21,Yes
+696,Henry,King,District of Columbia,male,17,2,15,Yes
+697,Daniel,Peterson,Texas,male,17,3,22,No
+698,Daniel,Bowman,Kentucky,male,16,4,31,Yes
+699,Martha,Alvarez,Colorado,female,16,2,13,No
+700,Kathryn,Medina,Texas,female,19,2,17,Yes
+701,John,Patterson,,male,15,2,4,No
+702,Michael,Shaw,Florida,male,18,3,26,Yes
+703,Janice,Matthews,Kentucky,female,15,3,34,No
+704,Chris,Little,Michigan,male,16,3,25,Yes
+705,Martin,Holmes,Florida,male,17,4,16,Yes
+706,Debra,Morris,Ohio,female,17,4,19,Yes
+707,Robin,Ryan,,female,15,4,15,Yes
+708,Jason,Richardson,Ohio,male,16,3,19,No
+709,Harry,Williamson,Pennsylvania,male,19,4,13,Yes
+710,Russell,Anderson,District of Columbia,male,17,4,30,Yes
+711,Johnny,Chapman,,male,17,2,12,No
+712,Maria,Stevens,Colorado,female,16,2,3,Yes
+713,David,Riley,New York,male,18,3,15,Yes
+714,Bobby,Anderson,Pennsylvania,male,17,4,17,Yes
+715,Stephen,Olson,Florida,male,19,3,10,Yes
+716,Ann,Coleman,Washington,female,17,2,17,Yes
+717,Diane,Vasquez,New York,female,15,4,14,Yes
+718,Gloria,Hughes,Ohio,female,19,2,17,Yes
+719,Cynthia,Garza,Ohio,female,18,3,24,No
+720,Louise,Edwards,Indiana,female,17,3,31,No
+721,Kimberly,Montgomery,,female,17,2,20,No
+722,Brandon,Perry,California,male,17,3,15,No
+723,Shirley,Ford,North Carolina,female,17,2,34,No
+724,Phillip,Alvarez,Illinois,male,16,2,15,Yes
+725,Howard,Lawrence,New York,male,19,4,33,Yes
+726,Stephanie,Johnson,Pennsylvania,female,18,4,17,Yes
+727,Sara,Meyer,California,female,18,2,9,No
+728,Keith,Fernandez,District of Columbia,male,19,3,8,No
+729,Samuel,Allen,Illinois,male,16,4,12,Yes
+730,Carol,Burke,New York,female,15,4,29,Yes
+731,Martha,Gordon,Illinois,female,15,4,22,Yes
+732,Katherine,Fox,,female,17,4,17,Yes
+733,Stephanie,Graham,Missouri,female,17,4,8,Yes
+734,Roger,Snyder,Kansas,male,18,4,21,Yes
+735,Mark,Bishop,Ohio,male,15,2,11,No
+736,Pamela,Wilson,,female,19,4,20,Yes
+737,Philip,Perkins,Florida,male,17,4,15,Yes
+738,Clarence,Stevens,Colorado,male,17,3,14,Yes
+739,Robert,Larson,Iowa,male,18,3,3,Yes
+740,Bruce,Howard,,male,17,2,20,No
+741,Karen,Turner,Missouri,female,16,4,28,Yes
+742,Thomas,Baker,Missouri,male,15,2,20,No
+743,Thomas,Hayes,California,male,17,4,5,Yes
+744,Larry,Butler,Arizona,male,16,3,28,No
+745,Anne,Butler,California,female,17,4,33,Yes
+746,Henry,Peters,,male,19,2,14,No
+747,Patrick,Brooks,California,male,19,3,15,Yes
+748,Eugene,Brooks,California,male,16,4,13,Yes
+749,Melissa,King,Virginia,female,18,4,34,Yes
+750,Margaret,Black,New York,female,18,4,17,Yes
+751,Kimberly,Day,Florida,female,19,2,6,No
+752,Joyce,Matthews,New York,female,17,4,27,Yes
+753,Julia,Hawkins,Texas,female,17,4,7,Yes
+754,Michelle,Gonzalez,Michigan,female,17,4,18,Yes
+755,Jessica,Elliott,Minnesota,female,17,4,28,Yes
+756,Joyce,Murphy,,female,17,4,5,Yes
+757,Joe,Howell,,male,15,2,20,No
+758,Steven,George,Oregon,male,16,3,11,Yes
+759,George,Gomez,California,male,19,4,2,Yes
+760,Annie,Hamilton,South Carolina,female,15,4,13,Yes
+761,Michael,James,Georgia,male,17,2,33,No
+762,Jimmy,Holmes,,male,17,3,26,No
+763,Helen,Mcdonald,California,female,18,2,15,No
+764,Diane,Freeman,,female,17,2,17,Yes
+765,Lois,Peters,Pennsylvania,female,19,4,31,Yes
+766,Brenda,Martin,Texas,female,16,4,17,Yes
+767,Christina,Daniels,Virginia,female,19,4,17,Yes
+768,Betty,Rose,Hawaii,female,17,3,6,No
+769,Beverly,Burns,Virginia,female,17,4,8,Yes
+770,Wayne,Brooks,,male,17,3,30,No
+771,Ralph,Watkins,District of Columbia,male,15,3,17,Yes
+772,Gerald,James,Tennessee,male,17,2,15,Yes
+773,Nicole,Ramos,Texas,female,16,4,12,Yes
+774,Mildred,Williamson,,female,16,2,27,No
+775,Jerry,Hart,Tennessee,male,19,2,34,No
+776,Russell,Scott,Wisconsin,male,19,4,29,Yes
+777,Louise,Lane,Pennsylvania,female,17,4,34,Yes
+778,Donna,Ramirez,Texas,female,16,3,6,No
+779,Frank,Miller,Texas,male,17,2,13,No
+780,Kimberly,Gordon,Minnesota,female,15,4,17,Yes
+781,Lois,Hansen,New York,female,17,2,12,No
+782,Alan,Pierce,California,male,18,3,20,No
+783,Debra,Smith,New York,female,17,2,5,No
+784,Jennifer,Armstrong,California,female,17,3,26,No
+785,Douglas,Fernandez,Florida,male,19,3,27,No
+786,Judith,Alvarez,Michigan,female,15,4,15,Yes
+787,Roy,Owens,Virginia,male,17,4,19,Yes
+788,Doris,Long,Illinois,female,16,4,17,Yes
+789,Diana,Hill,Missouri,female,19,4,17,Yes
+790,Carolyn,Kelley,Texas,female,17,2,19,No
+791,Wayne,Rogers,Alaska,male,17,3,16,No
+792,Lisa,Romero,,female,17,3,2,Yes
+793,Ryan,Walker,Massachusetts,male,16,3,15,Yes
+794,Rose,Ward,Texas,female,19,4,27,Yes
+795,Gary,Baker,Alabama,male,19,3,31,No
+796,Lillian,Fields,Tennessee,female,19,4,8,Yes
+797,Kelly,Lopez,Alaska,female,17,4,3,Yes
+798,Christopher,Butler,Minnesota,male,17,2,31,No
+799,Mildred,Gray,Virginia,female,19,4,17,Yes
+800,Carol,Ward,Indiana,female,16,2,33,No
+801,Justin,Clark,California,male,17,4,9,Yes
+802,Angela,Crawford,Ohio,female,17,3,4,No
+803,Clarence,Robinson,Texas,male,15,3,18,No
+804,Jack,Peters,Nevada,male,15,3,2,Yes
+805,Julia,Lee,Pennsylvania,female,15,4,17,Yes
+806,Adam,Chapman,Georgia,male,17,4,18,Yes
+807,Jean,Davis,California,female,16,4,3,Yes
+808,Ernest,Davis,California,male,17,3,15,Yes
+809,Anthony,Ross,Washington,male,19,4,4,Yes
+810,Jeffrey,Berry,Pennsylvania,male,15,2,26,No
+811,Jacqueline,Cunningham,Hawaii,female,17,4,31,Yes
+812,Angela,Banks,Florida,female,19,2,17,Yes
+813,Amy,Ortiz,Oklahoma,female,18,4,4,Yes
+814,Angela,Morrison,,female,16,4,7,Yes
+815,Gary,Matthews,California,male,18,3,4,No
+816,Heather,Lynch,Texas,female,18,2,17,Yes
+817,Phyllis,Edwards,Florida,female,17,3,17,No
+818,Sarah,Lawson,,female,16,2,20,No
+819,Andrew,Reyes,Texas,male,15,2,15,No
+820,Deborah,Lawson,Florida,female,16,2,14,No
+821,Paul,Stevens,,male,18,3,14,No
+822,Nancy,Oliver,Indiana,female,15,2,19,No
+823,Dennis,Carpenter,Indiana,male,17,3,7,Yes
+824,Patrick,Ross,Texas,male,17,4,26,Yes
+825,Gary,Holmes,,male,17,3,15,Yes
+826,Kimberly,Torres,,female,17,3,32,No
+827,Amy,Miller,,female,18,4,31,Yes
+828,Ruth,Parker,South Carolina,female,17,4,4,Yes
+829,Juan,Collins,Vermont,male,17,4,14,Yes
+830,Mary,Mason,Texas,female,19,4,19,Yes
+831,Kathryn,Alexander,New Jersey,female,19,2,17,No
+832,Kenneth,Moreno,,male,19,2,14,No
+833,Mildred,Welch,Texas,female,15,3,15,No
+834,Louis,Riley,Utah,male,17,4,15,Yes
+835,Roy,Butler,Texas,male,19,3,18,No
+836,Diane,Pierce,Indiana,female,17,3,2,Yes
+837,Randy,Mendoza,Ohio,male,17,3,11,Yes
+838,Irene,Cole,Texas,female,16,4,23,Yes
+839,James,Myers,Illinois,male,18,4,9,Yes
+840,Barbara,Turner,Pennsylvania,female,17,2,32,No
+841,Andrea,Duncan,Ohio,female,18,4,24,Yes
+842,Tammy,Stone,,female,15,3,4,No
+843,Cheryl,Harvey,,female,17,4,4,Yes
+844,Gloria,Ramos,Kansas,female,16,4,23,Yes
+845,Julia,White,District of Columbia,female,15,3,11,No
+846,Alan,Crawford,California,male,17,4,15,Yes
+847,Rachel,Lee,,female,19,3,27,No
+848,Laura,Mitchell,Colorado,female,18,4,17,Yes
+849,Christina,Moore,New York,female,19,3,22,No
+850,Marie,Wood,Michigan,female,17,4,27,Yes
+851,Jean,Gonzalez,Missouri,female,17,3,23,No
+852,Gloria,Edwards,California,female,18,4,17,Yes
+853,Kathy,Bailey,New York,female,19,3,17,Yes
+854,Heather,Owens,,female,15,4,17,Yes
+855,Ruth,Carroll,Kentucky,female,17,4,14,Yes
+856,Jimmy,Bryant,Pennsylvania,male,16,3,4,Yes
+857,Thomas,Tucker,California,male,17,3,8,No
+858,Janet,Murphy,Michigan,female,17,4,6,Yes
+859,Angela,Kelly,Connecticut,female,15,4,32,Yes
+860,Douglas,Burke,Illinois,male,16,3,8,No
+861,Justin,Bennett,,male,15,2,3,Yes
+862,Kevin,Robinson,Montana,male,17,3,25,No
+863,Pamela,Hudson,,female,16,4,17,Yes
+864,Barbara,Mccoy,New York,female,19,3,15,No
+865,Sara,Garcia,Louisiana,female,19,3,21,No
+866,John,Fields,,male,17,4,14,Yes
+867,Joe,Franklin,Ohio,male,15,2,15,No
+868,Ruby,Long,Minnesota,female,17,4,4,Yes
+869,Phyllis,Oliver,Michigan,female,17,4,27,Yes
+870,Patrick,Barnes,Texas,male,17,3,7,No
+871,Joshua,Butler,,male,18,4,15,Yes
+872,Janet,Cox,Texas,female,17,3,9,No
+873,William,Harris,Alabama,male,18,3,6,No
+874,Diana,Howard,Minnesota,female,15,4,17,Yes
+875,Joe,Hicks,Florida,male,15,3,15,Yes
+876,Amy,Walker,Alabama,female,17,4,29,Yes
+877,Matthew,Brown,Iowa,male,19,3,6,No
+878,Adam,Larson,District of Columbia,male,17,3,27,No
+879,Victor,Kelley,California,male,17,3,15,Yes
+880,Amanda,Reyes,District of Columbia,female,15,4,9,Yes
+881,Aaron,Shaw,Texas,male,15,2,5,No
+882,Kevin,Campbell,California,male,17,4,28,Yes
+883,Evelyn,Watson,South Carolina,female,15,2,14,No
+884,Amy,Nguyen,New York,female,18,2,30,No
+885,Betty,Stone,Colorado,female,17,2,31,No
+886,Susan,Spencer,Missouri,female,19,4,17,Yes
+887,Patricia,Hernandez,Arizona,female,19,4,14,Yes
+888,Jesse,Hunter,Pennsylvania,male,18,2,16,No
+889,Mark,Parker,New York,male,17,4,15,Yes
+890,Deborah,Franklin,,female,16,4,31,Yes
+891,Sharon,Dixon,District of Columbia,female,19,3,12,No
+892,Ruth,Larson,Washington,female,18,4,17,Yes
+893,Gerald,Mendoza,Florida,male,17,3,7,No
+894,Gregory,Green,Arizona,male,15,4,6,Yes
+895,Eric,Greene,California,male,15,3,33,No
+896,Amanda,Anderson,Nevada,female,19,4,4,Yes
+897,Kathleen,Lane,Indiana,female,19,4,24,Yes
+898,Andrew,Murphy,Minnesota,male,16,2,15,Yes
+899,Andrea,Nichols,Maryland,female,17,2,7,No
+900,Louis,Sims,Virginia,male,17,3,10,Yes
+901,Jennifer,Nguyen,Kansas,female,17,3,6,No
+902,Amy,Bennett,Nebraska,female,15,4,6,Yes
+903,Christina,Hall,Florida,female,18,2,14,No
+904,Emily,Griffin,Louisiana,female,15,3,17,Yes
+905,Dennis,Stephens,Pennsylvania,male,17,3,25,No
+906,Harry,Wells,Pennsylvania,male,17,3,20,Yes
+907,Michael,Grant,,male,17,2,27,No
+908,Benjamin,Nguyen,Ohio,male,19,4,15,Yes
+909,Ruth,Ortiz,Pennsylvania,female,17,2,8,No
+910,Diane,Austin,,female,17,2,22,No
+911,Sarah,Perry,California,female,17,4,7,Yes
+912,Patrick,Richards,Minnesota,male,19,3,15,Yes
+913,Melissa,Daniels,Indiana,female,17,2,24,No
+914,Kimberly,Gardner,Virginia,female,18,4,17,Yes
+915,Larry,Smith,Maryland,male,16,3,15,No
+916,Debra,Warren,Texas,female,15,4,31,Yes
+917,Beverly,Tucker,Oklahoma,female,19,4,19,Yes
+918,Gary,Fernandez,Maryland,male,19,3,5,Yes
+919,Ralph,Perry,Texas,male,15,4,9,Yes
+920,Patricia,Ellis,Florida,female,17,4,31,Yes
+921,Kathy,Fernandez,New York,female,17,2,21,No
+922,Rebecca,Duncan,California,female,17,3,31,No
+923,Angela,Arnold,New Jersey,female,15,4,11,Yes
+924,Tina,Lopez,Indiana,female,18,3,2,Yes
+925,Diane,Griffin,New York,female,16,2,16,No
+926,Raymond,Hunt,,male,15,2,15,Yes
+927,Shirley,Kelly,California,female,15,3,27,No
+928,Ashley,Ramirez,Texas,female,15,3,29,No
+929,Alan,Davis,Wisconsin,male,17,3,15,Yes
+930,Cheryl,Spencer,Michigan,female,17,2,17,Yes
+931,Sandra,Hunter,New Mexico,female,17,4,10,Yes
+932,Barbara,Parker,,female,17,2,13,No
+933,Kimberly,Lynch,Texas,female,18,3,7,No
+934,Edward,Meyer,Virginia,male,19,2,28,No
+935,Anna,Stone,Texas,female,18,4,17,Yes
+936,Roger,Thompson,Virginia,male,18,2,15,Yes
+937,Gary,Marshall,Minnesota,male,18,4,8,Yes
+938,Anthony,Ray,New York,male,18,4,4,Yes
+939,Ruby,Castillo,California,female,19,3,11,No
+940,Kenneth,Evans,Indiana,male,15,4,24,Yes
+941,Nancy,Peters,,female,17,4,6,Yes
+942,Andrea,Sanchez,Florida,female,17,4,17,Yes
+943,Joan,Fox,Virginia,female,15,2,17,Yes
+944,Denise,Holmes,District of Columbia,female,17,2,7,No
+945,Todd,Pierce,Missouri,male,19,3,4,Yes
+946,Dennis,Lopez,Georgia,male,17,3,15,Yes
+947,Randy,Myers,Delaware,male,17,3,17,Yes
+948,Maria,Marshall,Georgia,female,18,4,22,Yes
+949,Susan,Gonzales,California,female,19,3,17,Yes
+950,Diane,Fox,Nebraska,female,17,2,28,No
+951,Billy,Gonzales,South Dakota,male,16,3,27,No
+952,Jean,Carr,North Dakota,female,16,2,31,No
+953,Jerry,Hanson,Texas,male,18,2,15,Yes
+954,Tammy,Parker,Connecticut,female,19,4,33,Yes
+955,Kathleen,Grant,Louisiana,female,15,2,2,Yes
+956,Anthony,Sanders,,male,17,4,10,Yes
+957,Justin,Lawrence,Florida,male,17,3,13,No
+958,Jacqueline,Day,Illinois,female,18,4,17,Yes
+959,Wayne,Sanchez,Texas,male,18,4,12,Yes
+960,Jerry,Washington,Nevada,male,17,3,30,No
+961,Louise,Brooks,Utah,female,17,3,26,No
+962,Dennis,Schmidt,New York,male,16,2,2,Yes
+963,Teresa,Olson,Florida,female,15,4,7,Yes
+964,Arthur,Hill,,male,17,3,8,No
+965,Craig,Rose,,male,17,3,10,Yes
+966,Rachel,Hawkins,Minnesota,female,17,3,20,No
+967,Edward,Warren,Florida,male,19,3,15,No
+968,Teresa,Fisher,North Carolina,female,17,4,17,Yes
+969,Jean,Gonzales,New York,female,17,3,4,No
+970,Susan,Nguyen,,female,18,4,16,Yes
+971,Michelle,Greene,Oklahoma,female,17,4,8,Yes
+972,Christopher,Stanley,Colorado,male,16,2,29,No
+973,Jeffrey,Mason,Georgia,male,17,4,15,Yes
+974,Phyllis,Smith,,female,17,4,22,Yes
+975,Jessica,Montgomery,Michigan,female,18,3,18,No
+976,Jessica,Wheeler,California,female,17,2,17,Yes
+977,Carl,Bryant,Ohio,male,17,2,29,No
+978,Wanda,Rivera,New York,female,18,4,16,Yes
+979,Betty,Reid,Delaware,female,15,3,3,Yes
+980,Ruby,Diaz,Ohio,female,15,4,30,Yes
+981,Thomas,Myers,Texas,male,15,3,2,Yes
+982,Jane,Sims,Texas,female,19,2,25,No
+983,Laura,Nelson,,female,17,2,17,Yes
+984,Jessica,Gonzales,Nevada,female,17,3,15,No
+985,Ralph,Freeman,California,male,18,3,31,No
+986,Jose,Jordan,Connecticut,male,17,4,20,Yes
+987,Andrea,Banks,California,female,19,2,11,No
+988,Gloria,Ross,Missouri,female,17,4,17,Yes
+989,Harry,Carr,Nebraska,male,16,3,34,Yes
+990,Anthony,Sanders,District of Columbia,male,15,4,2,Yes
+991,Ruby,King,California,female,18,4,14,Yes
+992,Deborah,King,New York,female,19,4,31,Yes
+993,Arthur,Green,Oklahoma,male,17,4,20,Yes
+994,Earl,Weaver,Ohio,male,19,2,26,No
+995,Ralph,Lopez,District of Columbia,male,16,4,15,Yes
+996,Frank,Stone,Louisiana,male,16,4,25,Yes
+997,Shirley,Garrett,Minnesota,female,15,4,17,Yes
+998,Jane,Rodriguez,Ohio,female,17,4,20,Yes
+999,Robin,George,California,female,19,4,17,Yes
+1000,Martin,Fowler,Texas,male,18,3,19,No
